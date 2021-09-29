@@ -1,6 +1,6 @@
 ## Invictus Performance
 2021
-Little changes for the Invictus Performance © webpage
+A couple front-end changes for Invictus Performance© webpage.
 
 visit: http://invictusperformance.us/
 
